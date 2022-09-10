@@ -1,2 +1,2 @@
-print("pe")
+print("praew")
 print("panthira")
